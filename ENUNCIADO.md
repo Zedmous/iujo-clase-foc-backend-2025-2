@@ -474,6 +474,6 @@ Los estudiantes **DEBEN**:
 
 ---
 
-**Fecha de entrega**: Antes del domingo 30/11/2025  
+**Fecha de entrega**: Antes del lunes 15/12/2025  
 **Autor**: Zedmous
 
